@@ -19,10 +19,19 @@
 
 
 <h3 align="left">Projects:</h3>
+
+<h2 align="left">yumPaw:</h2>
 <p>
-<img src="https://user-images.githubusercontent.com/96808429/174879765-a63ca671-15b4-4bf2-b231-f927fbfe48a1.jpg" width="350">
-<img src="https://user-images.githubusercontent.com/96808429/174879770-34eefcff-72b7-49af-bd0f-01f694fe1a04.jpg" width="350">
-<img src="https://user-images.githubusercontent.com/96808429/174879490-ef836041-3f04-43e4-b739-c81e8b6505ff.jpg" width="350">
+<img src="https://user-images.githubusercontent.com/96808429/174879765-a63ca671-15b4-4bf2-b231-f927fbfe48a1.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/96808429/174879770-34eefcff-72b7-49af-bd0f-01f694fe1a04.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/96808429/174879490-ef836041-3f04-43e4-b739-c81e8b6505ff.jpg" width="400">
+  </p>
+  
+
+<h2 align="left">Countries:</h2>
+<p>
+<img src="https://user-images.githubusercontent.com/96808429/174882059-e3b3e859-7d9a-439c-a7a9-a262cb2e8303" width="400">
+<img src="https://user-images.githubusercontent.com/96808429/174882004-41f6413d-a074-4fd4-9121-4c4e15a07894.jpg" width="400">
   </p>
 
 
