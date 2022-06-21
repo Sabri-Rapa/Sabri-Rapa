@@ -10,6 +10,8 @@
 
 📫 How to reach me: sabrina.rapa@hotmail.com
 
+![image]([https://user-images.githubusercontent.com/96808429/174872124-f7f578c2-8274-4c92-9d9a-bb702c107b55.png](https://www.linkedin.com/in/sabrina-helena-rapa/))
+
 
 
 <!--
