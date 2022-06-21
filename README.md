@@ -13,9 +13,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sabrina-helena-rapa/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sabrina-helena-rapa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sabrina-helena-rapa/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sabrina-helena-rapa/" height="30" width="40" /></a> 
 </p>
 <p> 💌 sabrina.rapa@hotmail.com</p>
+
+
+<h3 align="left">Projects:</h3>
+![image](https://user-images.githubusercontent.com/96808429/174878743-1bdd5ca6-1880-4652-91bf-9725129bde07.png) ![image](https://user-images.githubusercontent.com/96808429/174878819-2d6a9ad4-2207-4939-a2b3-2675d96969e4.png) ![image](https://user-images.githubusercontent.com/96808429/174878947-029c5bd0-db06-486d-8889-df30bcf6144b.png)
+
+
 
 
 <!--
