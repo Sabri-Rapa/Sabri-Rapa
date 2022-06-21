@@ -1,3 +1,6 @@
+
+![Linkedin Henry STUDENTS-04](https://user-images.githubusercontent.com/96808429/174875356-fb005ebf-4c29-4fe3-a8d1-d3bcf6a914dc.png)
+
 ### Hi there 👋
 
 💥 I'm recently graduated as a Full-Stack Developer. I am very excited to continue delving into the world of development, which I discovered as my passion.
@@ -10,7 +13,6 @@
 
 📫 How to reach me: sabrina.rapa@hotmail.com
 
-![image]([https://user-images.githubusercontent.com/96808429/174872124-f7f578c2-8274-4c92-9d9a-bb702c107b55.png](https://www.linkedin.com/in/sabrina-helena-rapa/))
 
 
 
