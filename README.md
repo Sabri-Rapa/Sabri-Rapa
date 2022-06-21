@@ -19,9 +19,9 @@
 
 
 <h3 align="left">Projects:</h3>
-![image](https://user-images.githubusercontent.com/96808429/174878743-1bdd5ca6-1880-4652-91bf-9725129bde07.png) ![image](https://user-images.githubusercontent.com/96808429/174878819-2d6a9ad4-2207-4939-a2b3-2675d96969e4.png) ![image](https://user-images.githubusercontent.com/96808429/174878947-029c5bd0-db06-486d-8889-df30bcf6144b.png)
-
-
+![YumPaw1](https://user-images.githubusercontent.com/96808429/174879765-a63ca671-15b4-4bf2-b231-f927fbfe48a1.jpg)
+![YumPaw2](https://user-images.githubusercontent.com/96808429/174879770-34eefcff-72b7-49af-bd0f-01f694fe1a04.jpg)
+![YumPaw3](https://user-images.githubusercontent.com/96808429/174879490-ef836041-3f04-43e4-b739-c81e8b6505ff.jpg)
 
 
 <!--
