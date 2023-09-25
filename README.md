@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-💥 I'm recently graduated as a Full-Stack Developer. I am very excited to continue delving into the world of development, which I discovered as my passion.
+💥 I'm Full-Stack Developer. I am very excited to continue delving into the world of development, which I discovered as my passion.
 
 💨I'm entering the world of development with my first personal projects.
 
