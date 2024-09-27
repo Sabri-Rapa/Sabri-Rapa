@@ -22,15 +22,15 @@
 <h3 align="left">Inflatrack:</h3>
 
 <!-- Contenedor Principal -->
-<div  width="100%" style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center">
+<div  width="100%"  style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center">
   
   <!-- Imagen principal centrada -->
-  <div width="100%" style="display: flex; align-items: center; justify-content: center; ; text-align: center; margin-bottom: 10px">
+  <div width="100%" align="center" style="display: flex; align-items: center; justify-content: center; ; text-align: center; margin-bottom: 10px">
     <img src="https://github.com/user-attachments/assets/62ec1bec-6d4a-4f79-886a-ef52a0d4d748" width="400">
   </div>
   
   <!-- Subcontenedor de imágenes centradas -->
-  <div width="100%" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center; ; text-align: center; margin: 0 auto">
+  <div width="100%" align="center">
     <img src="https://github.com/user-attachments/assets/b4d7aa0e-6490-4e75-b881-32de1ff06f0b" width="400">
     <img src="https://github.com/user-attachments/assets/a5247a04-ef99-4ad5-9ad4-45f9685dd2fe" width="400">
     <img src="https://github.com/user-attachments/assets/d40e183e-6cd6-44b3-8802-36899506e7c7" width="400">
