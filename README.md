@@ -7,7 +7,7 @@
 
 💨I'm entering the world of development with my first personal projects.
 
-💬 Ask me about JavaScript, React, Redux, HTML, Node JS, Express, PostgreSQL, OAuth, Sequelize.
+💬 Ask me about JavaScript, TypeScript, React, Redux, Redux Toolkit, HTML, Node JS, Express, PostgreSQL, MySQL, MongoDB, Sequelize, TypeORM, Mongoose.
 
 🌍  I'm based in Buenos Aires, Argentina.
 
