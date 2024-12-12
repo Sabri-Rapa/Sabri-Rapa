@@ -5,9 +5,9 @@
 
 💥 I'm Full-Stack Developer. I am very excited to continue delving into the world of development, which I discovered as my passion.
 
-💨I'm entering the world of development with my first personal projects.
+<!-- 💨I'm entering the world of development with my first personal projects. -->
 
-💬 Ask me about JavaScript, TypeScript, React, Redux, Redux Toolkit, HTML, Node JS, Express, PostgreSQL, MySQL, MongoDB, Sequelize, TypeORM, Mongoose.
+💬 Ask me about JavaScript, TypeScript, React, Redux, Redux Toolkit, HTML, Node JS, Express, PostgreSQL, MySQL, MongoDB, Sequelize, TypeORM, Mongoose, Java, DigitalOcean.
 
 🌍  I'm based in Buenos Aires, Argentina.
 
